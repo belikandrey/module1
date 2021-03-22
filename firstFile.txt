@@ -1,8 +1,8 @@
 Line1 Updated from git_1
 Line2 Updated from git_1
 Line3
-Line4 Updated from step 18
-Line5 Updated from step 18
+Line4 Modify
+Line5 Modify
 Line6
 Line7
 Line8

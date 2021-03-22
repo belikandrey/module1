@@ -1,5 +1,7 @@
 Line 1 Changed git_1
 Line 2 Changed git_1
+Line 1 Updated from git_2
+Line 2 Updated from git_2
 Line 3
 Line 4
 Line 5
